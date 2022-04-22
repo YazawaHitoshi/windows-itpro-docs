@@ -27,7 +27,6 @@ This event is generated when a process attempts an account logon by explicitly s
 
 This most commonly occurs in batch-type configurations such as scheduled tasks, or when using the “RUNAS” command.
 
-It is also a routine event which periodically occurs during normal operating system activity.
 
 > **Note**&nbsp;&nbsp;For recommendations, see [Security Monitoring Recommendations](#security-monitoring-recommendations) for this event.
 
